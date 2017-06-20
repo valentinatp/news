@@ -1,0 +1,59 @@
+/*#ec4647 rojo*/
+.navbar-default{
+	background-color: transparent;
+	border: none;
+}
+
+.collapse.navbar-collapse{
+	background-color: transparent;
+	width: 90%;
+	margin: 0 8%;
+	border-bottom: 1px solid #ec4647;
+}
+
+ h1{
+	color: black;
+	text-transform: uppercase;
+	margin: 10px 0;
+}
+
+h4{
+	color: grey;
+	text-transform: uppercase;
+}
+
+#puntico{
+	color: #ec4647;
+}
+
+.lup{
+	background-color: #ec4647;
+	padding: 10px 20px;
+}
+.lupita{
+	color: whitesmoke;
+
+}
+
+a{
+	color: grey;
+	text-transform: uppercase;
+}
+
+a:hover{
+	border-bottom: 3px solid #ec4647;
+}
+
+.first{
+	display: inline-block;
+}
+
+.estrella{
+	color: #ec4647;
+}
+
+.linea span{
+	width: 100%;
+	border-bottom: 2px solid grey;
+	margin: 2px;
+}
